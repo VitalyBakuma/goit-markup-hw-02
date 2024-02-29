@@ -6,7 +6,9 @@ body {
 a {
   text-decoration: none;
 }
-
+h2 {
+  color: #2e2f42;
+}
 ul {
   list-style-type: none;
   font-style: normal;
@@ -136,12 +138,11 @@ h1 {
 }
 
 .project-list {
+  color: #2e2f42;
 }
 
 .project-list-img {
-  width: 360px;
-  height: 420px;
-  background-color: #fff;
+  
 }
 
 .project-list-subtitle {
