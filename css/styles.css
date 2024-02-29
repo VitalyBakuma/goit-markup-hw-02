@@ -44,7 +44,7 @@ span {
 
 .btn:hover,
 .btn:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .nav-list-studio:active {
@@ -68,7 +68,7 @@ span {
   height: 600px;
 }
 
-h1 {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -76,8 +76,9 @@ h1 {
   text-align: center;
   color: #fff;
 }
+
 .btn {
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -95,6 +96,7 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .feature-text {
@@ -142,7 +144,6 @@ h1 {
 }
 
 .project-list-img {
-  
 }
 
 .project-list-subtitle {
