@@ -108,6 +108,7 @@ span {
 }
 
 .section-team {
+  background-color: #f4f4fd;
 }
 
 .title {
@@ -129,6 +130,7 @@ span {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 
 .team-text {
@@ -140,7 +142,7 @@ span {
 }
 
 .section-portfolio {
-  background-color: #F4F4FD
+  background-color: #f4f4fd;
 }
 
 .title {
