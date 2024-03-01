@@ -45,19 +45,17 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
+.nav-list-text:hover,
+.nav-list-text:focus,
 .nav-addres:hover,
 .nav-addres:focus {
   color: #404bbf;
 }
 
-
 .btn:hover,
 .btn:focus {
   background-color: #404bbf;
 }
-
-
 
 .address {
   font-style: normal;
